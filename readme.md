@@ -1,4 +1,4 @@
-# classic.patrickpottman.com
+# classic.patrickrottman.com
 
 Welcome to **classic.patrickrottman.com**, my first-ever website from over 15 years ago. It’s messy, it’s old-school, and it’s staying up forever as a tribute to where I started.
 
